@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Kaze
+Name=Kaze-dark
 Comment=Refresh of Breeze Icons
 Inherits=breeze,gnome,hicolor
 
@@ -7,10 +7,10 @@ Example=x-directory-normal
 
 FollowsColorScheme=true
 
-Directories=64x64/apps,64x64/places,64x64/devices,24x24/places,24x24/status,24x24/devices,24x24/actions,24x24/categories,24x24/preferences
+Directories=64x64/actions,64x64/apps,64x64/places,64x64/devices,24x24/places,24x24/status,24x24/devices,24x24/actions,24x24/categories,24x24/preferences
 
-[64x64/apps]
-Context=Applications
+[64x64/actions]
+Context=Actions
 Size=64
 MinSize=64
 MaxSize=512
