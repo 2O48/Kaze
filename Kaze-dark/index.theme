@@ -16,6 +16,13 @@ MinSize=64
 MaxSize=512
 Type=Scalable
 
+[64x64/apps]
+Context=Applications
+Size=64
+MinSize=64
+MaxSize=512
+Type=Scalable
+
 [64x64/places]
 Context=Places
 Size=64
