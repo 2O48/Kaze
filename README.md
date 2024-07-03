@@ -6,16 +6,22 @@ Therefore, Kaze will not adopt highly saturated colors or overwhelming visual ef
 
 Here are some of the previews.
 
+Screenshot
 ![Screenshot](./readme/Screenshot_20240626_211509.png)
 
+Apps
 ![Apps](./readme/Apps.png)
 
+MimeTypes
 ![MimeTypes](./readme/Mimetypes.png)
 
+Places
 ![Places](./readme/Places.png)
 
+Preferences
 ![Preferences](./readme/Preferences.png)
 
+Actions
 ![Actions](./readme/Actions.png)
 
 If you are interested in contributing to the design and development, feel free to check the Figma template link [here](https://www.figma.com/design/WlM3gZ8lQ5zjlbzAaAKAIK/Kaze-icons?node-id=0-1&t=N9k8vPa9Q6y2NoLT-1) or submit a Pull Request :)
