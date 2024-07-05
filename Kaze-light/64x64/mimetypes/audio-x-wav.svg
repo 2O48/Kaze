@@ -20,9 +20,9 @@
 <stop stop-color="#3397F5"/>
 <stop offset="1" stop-color="#126CD7"/>
 </linearGradient>
-<linearGradient id="paint3_linear_3306_427" x1="56.3088" y1="65.367" x2="66.3507" y2="102.844" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint3_linear_3306_427" x1="55.9843" y1="66.1197" x2="65.9707" y2="103.389" gradientUnits="userSpaceOnUse">
 <stop stop-color="#EFF3F5"/>
-<stop offset="1" stop-color="#DBE4E8"/>
+<stop offset="1" stop-color="#B4D8F1"/>
 </linearGradient>
 <clipPath id="clip0_3306_427">
 <rect width="128" height="128" fill="white"/>
