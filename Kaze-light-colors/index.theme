@@ -1,0 +1,34 @@
+[Icon Theme]
+Name=Kaze-light-colors
+Comment=Color accent support for Kaze-light icon theme
+Inherits=Kaze-light,gnome,hicolor
+
+Example=x-directory-normal
+
+FollowsColorScheme=true
+
+Directories=64x64/places,64x64/apps,24x24/apps,24x24/places
+
+[64x64/places]
+Context=Places
+Size=64
+MinSize=64
+MaxSize=512
+Type=Scalable
+
+[24x24/places]
+Context=Places
+Size=24
+Type=Fixed
+
+[64x64/apps]
+Context=Applications
+Size=64
+MinSize=64
+MaxSize=512
+Type=Scalable
+
+[24x24/apps]
+Context=Applications
+Size=24
+Type=Fixed
