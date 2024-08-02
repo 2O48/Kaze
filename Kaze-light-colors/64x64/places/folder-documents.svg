@@ -16,13 +16,15 @@
 <stop style="stop-color:currentColor" class="ColorScheme-Highlight"/>
 <stop offset="1" style="stop-color:currentColor" class="ColorScheme-Highlight"/>
 </linearGradient>
+
 <linearGradient id="paint1_linear_853_174" x1="64" y1="52.6667" x2="64" y2="95.3333" gradientUnits="userSpaceOnUse">
 <stop stop-color="#EFF4F6"/>
 <stop offset="1" stop-color="#B5D8F1"/>
 </linearGradient>
+
 <linearGradient id="paint2_linear_853_174" x1="71.5" y1="56" x2="71.5" y2="65" gradientUnits="userSpaceOnUse">
-<stop stop-color="#349CEF"/>
-<stop offset="1" stop-color="#3096ED"/>
+<stop style="stop-color:currentColor" class="ColorScheme-Highlight"/>
+<stop offset="1" style="stop-color:currentColor" class="ColorScheme-Highlight"/>
 </linearGradient>
 </defs>
 </svg>

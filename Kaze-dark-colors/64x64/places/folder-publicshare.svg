@@ -31,7 +31,7 @@
 <stop offset="1" stop-color="#B4D8F1"/>
 </linearGradient>
 <linearGradient id="paint3_linear_817_315" x1="62" y1="54" x2="62" y2="94" gradientUnits="userSpaceOnUse">
-<stop stop-color="#359EF0"/>
+<stop offset="1" style="stop-color:currentColor" class="ColorScheme-Highlight"/>
 <stop offset="1" stop-color="#217EE4"/>
 </linearGradient>
 <linearGradient id="paint4_linear_817_315" x1="62" y1="54" x2="62" y2="94" gradientUnits="userSpaceOnUse">
