@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Kaze-light-colors
 Comment=Color accent support for Kaze-light icon theme
-Inherits=Kaze-light,gnome,hicolor
+Inherits=breeze,gnome,hicolor
 
 Example=x-directory-normal
 
