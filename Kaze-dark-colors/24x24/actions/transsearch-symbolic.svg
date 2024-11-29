@@ -1,16 +1,20 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_3017_1677)">
-<mask id="mask0_3017_1677" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
-<path d="M24 0H0V24H24V0Z" fill="white"/>
-</mask>
-<g mask="url(#mask0_3017_1677)">
-<path d="M16 16L20 20" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M11 18C14.866 18 18 14.866 18 11C18 7.13401 14.866 4 11 4C7.13401 4 4 7.13401 4 11C4 14.866 7.13401 18 11 18Z" stroke="#DDDDDD" stroke-width="1.2"/>
-</g>
-</g>
-<defs>
-<clipPath id="clip0_3017_1677">
-<rect width="24" height="24" fill="white"/>
-</clipPath>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" version="1.1" id="svg1" sodipodi:docname="system-search.svg" inkscape:version="1.4 (e7c3feb100, 2024-10-09)">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">
+      .ColorScheme-Text { color:#e6f0f5; }
+      .ColorScheme-Highlight { color:#2179cb; }
+      .ColorScheme-Background { color:#e4e4e4; }
+    </style>
+  </defs>
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#ffffff" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="33.291667" inkscape:cx="11.984981" inkscape:cy="12" inkscape:window-width="1920" inkscape:window-height="1008" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg1"/>
+  <g clip-path="url(#clip0_957_219)" id="g1">
+    <path id="circle1" style="stroke:#ffffff;stroke-width:1.2;stroke-linecap:round" d="m 18,11 a 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 7,7 0 0 1 7,7 z m -2,5 4,4"/>
+    <path id="circle1" class="ColorScheme-Highlight" style="stroke:currentColor;opacity:0.5;stroke-width:1.2;stroke-linecap:round" d="m 18,11 a 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 7,7 0 0 1 7,7 z m -2,5 4,4"/>
+  </g>
+  <defs id="defs1">
+    <clipPath id="clip0_957_219">
+      <rect width="24" height="24" fill="white" id="rect1"/>
+    </clipPath>
+  </defs>
 </svg>

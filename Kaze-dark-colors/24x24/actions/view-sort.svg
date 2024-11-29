@@ -1,4 +1,14 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M4 7.75L8 4M8 4L12 7.75M8 4V14" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 16.25L16 20M16 20L20 16.25M16 20V10" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <defs id="defs1">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text { color:#e6f0f5; }
+            .ColorScheme-Highlight { color:#2179cb; }
+            .ColorScheme-Background { color:#e4e4e4; }
+        </style>
+    </defs>
+    <path d="M4 7.75L8 4M8 4L12 7.75M8 4V14" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 16.25L16 20M16 20L20 16.25M16 20V10" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M4 7.75L8 4M8 4L12 7.75M8 4V14" style="stroke:currentColor;opacity:0.5" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 16.25L16 20M16 20L20 16.25M16 20V10" style="stroke:currentColor;opacity:0.5" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

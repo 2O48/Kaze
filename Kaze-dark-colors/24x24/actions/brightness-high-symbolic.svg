@@ -1,23 +1,35 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_3017_1309)">
-<mask id="mask0_3017_1309" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
-<path d="M24 0H0V24H24V0Z" fill="white"/>
-</mask>
-<g mask="url(#mask0_3017_1309)">
-<path d="M12 5V3" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 21V19" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M17.2427 6.75735L18.6569 5.34314" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M5.29297 18.4142L6.70718 17" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M6.75748 6.75735L5.34326 5.34314" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M18.4142 18.4142L17 17" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M5 12H3" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M21 12H19" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 16C14.2091 16 16 14.2091 16 12C16 9.79086 14.2091 8 12 8C9.79086 8 8 9.79086 8 12C8 14.2091 9.79086 16 12 16Z" stroke="#DDDDDD" stroke-width="1.2"/>
-</g>
-</g>
-<defs>
-<clipPath id="clip0_3017_1309">
-<rect width="24" height="24" fill="white"/>
-</clipPath>
-</defs>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <defs id="defs1">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text { color:#e6f0f5; }
+            .ColorScheme-Highlight { color:#2179cb; }
+            .ColorScheme-Background { color:#e4e4e4; }
+        </style>
+    </defs>
+    <g clip-path="url(#clip0_968_176)">
+        <path d="M12 5V4" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M12 20V19" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M16.9496 7.05025L17.6567 6.34314" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M5.99992 17.7071L6.70703 17" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M7.05037 7.05025L6.34326 6.34314" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M17.7071 17.7071L17 17" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M5 12L4 12" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M20 12L19 12" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="12" cy="12" r="4" stroke="#ffffff" stroke-width="1.2"/>
+        <path d="M12 5V4" style="stroke:currentColor;opacity:0.5;" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M12 20V19" style="stroke:currentColor;opacity:0.5;" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M16.9496 7.05025L17.6567 6.34314" style="stroke:currentColor;opacity:0.5;" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M5.99992 17.7071L6.70703 17" style="stroke:currentColor;opacity:0.5;" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M7.05037 7.05025L6.34326 6.34314" style="stroke:currentColor;opacity:0.5;" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M17.7071 17.7071L17 17" style="stroke:currentColor;opacity:0.5;" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M5 12L4 12" style="stroke:currentColor;opacity:0.5;" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M20 12L19 12" style="stroke:currentColor;opacity:0.5;" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="12" cy="12" r="4" style="stroke:currentColor;opacity:0.5;" class="ColorScheme-Highlight" stroke-width="1.2"/>
+    </g>
+    <defs>
+        <clipPath id="clip0_968_176">
+            <rect width="24" height="24" fill="white"/>
+        </clipPath>
+    </defs>
 </svg>

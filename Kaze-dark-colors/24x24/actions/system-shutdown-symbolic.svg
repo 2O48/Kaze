@@ -1,16 +1,21 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_3017_1649)">
-<mask id="mask0_3017_1649" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
-<path d="M24 0H0V24H24V0Z" fill="white"/>
-</mask>
-<g mask="url(#mask0_3017_1649)">
-<path d="M15.0614 4.60901C16.7714 5.3173 18.1829 6.59658 19.0553 8.22887C19.9278 9.86117 20.2073 11.7454 19.8462 13.5607C19.4852 15.376 18.5058 17.0099 17.0751 18.1841C15.6444 19.3582 13.8508 20 12 20C10.1491 20 8.35559 19.3582 6.92487 18.1841C5.49415 17.0099 4.51482 15.376 4.15373 13.5607C3.79265 11.7454 4.07217 9.86117 4.94465 8.22888C5.81713 6.59658 7.22859 5.3173 8.93855 4.60901" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round"/>
-<path d="M12 3V12" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round"/>
-</g>
-</g>
-<defs>
-<clipPath id="clip0_3017_1649">
-<rect width="24" height="24" fill="white"/>
-</clipPath>
-</defs>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <defs id="defs1">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text { color:#e6f0f5; }
+            .ColorScheme-Highlight { color:#2179cb; }
+            .ColorScheme-Background { color:#e4e4e4; }
+        </style>
+    </defs>
+    <g clip-path="url(#clip0_1171_335)">
+        <path d="M15.0613 4.60896C16.7713 5.31725 18.1828 6.59653 19.0552 8.22882C19.9277 9.86112 20.2072 11.7454 19.8461 13.5607C19.4851 15.376 18.5057 17.0099 17.075 18.1841C15.6443 19.3582 13.8507 20 11.9999 20C10.149 20 8.35544 19.3582 6.92472 18.1841C5.494 17.0099 4.51467 15.376 4.15358 13.5607C3.7925 11.7454 4.07202 9.86112 4.9445 8.22883C5.81698 6.59653 7.22844 5.31725 8.9384 4.60896" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round"/>
+        <path d="M12 3V12" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round"/>
+        <path d="M15.0613 4.60896C16.7713 5.31725 18.1828 6.59653 19.0552 8.22882C19.9277 9.86112 20.2072 11.7454 19.8461 13.5607C19.4851 15.376 18.5057 17.0099 17.075 18.1841C15.6443 19.3582 13.8507 20 11.9999 20C10.149 20 8.35544 19.3582 6.92472 18.1841C5.494 17.0099 4.51467 15.376 4.15358 13.5607C3.7925 11.7454 4.07202 9.86112 4.9445 8.22883C5.81698 6.59653 7.22844 5.31725 8.9384 4.60896" style="stroke:currentColor;opacity:0.5" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round"/>
+        <path d="M12 3V12" style="stroke:currentColor;opacity:0.5" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round"/>
+    </g>
+    <defs>
+        <clipPath id="clip0_1171_335">
+            <rect width="24" height="24" fill="white"/>
+        </clipPath>
+    </defs>
 </svg>

@@ -1,35 +1,69 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_3502_457)">
-<rect x="6" y="6" width="1" height="1" fill="#DDDDDD"/>
-<rect x="8" y="8" width="1" height="1" fill="#DDDDDD"/>
-<rect x="7" y="9" width="1" height="1" fill="#DDDDDD"/>
-<rect x="6" y="10" width="1" height="1" fill="#DDDDDD"/>
-<rect x="9" y="9" width="1" height="1" fill="#DDDDDD"/>
-<rect x="10" y="10" width="1" height="1" fill="#DDDDDD"/>
-<rect x="9" y="7" width="1" height="1" fill="#DDDDDD"/>
-<rect x="10" y="6" width="1" height="1" fill="#DDDDDD"/>
-<rect x="7" y="7" width="1" height="1" fill="#DDDDDD"/>
-<rect x="13" y="6" width="1" height="1" fill="#DDDDDD"/>
-<rect x="15" y="8" width="1" height="1" fill="#DDDDDD"/>
-<rect x="14" y="9" width="1" height="1" fill="#DDDDDD"/>
-<rect x="13" y="10" width="1" height="1" fill="#DDDDDD"/>
-<rect x="16" y="9" width="1" height="1" fill="#DDDDDD"/>
-<rect x="17" y="10" width="1" height="1" fill="#DDDDDD"/>
-<rect x="16" y="7" width="1" height="1" fill="#DDDDDD"/>
-<rect x="17" y="6" width="1" height="1" fill="#DDDDDD"/>
-<rect x="14" y="7" width="1" height="1" fill="#DDDDDD"/>
-<rect x="7" y="17" width="1" height="1" fill="#DDDDDD"/>
-<rect x="8" y="16" width="1" height="1" fill="#DDDDDD"/>
-<rect x="9" y="15" width="1" height="1" fill="#DDDDDD"/>
-<rect x="10" y="14" width="4" height="1" fill="#DDDDDD"/>
-<rect x="14" y="15" width="1" height="1" fill="#DDDDDD"/>
-<rect x="15" y="16" width="1" height="1" fill="#DDDDDD"/>
-<rect x="16" y="17" width="1" height="1" fill="#DDDDDD"/>
-<rect x="4" y="4" width="16" height="16" rx="2" stroke="#DDDDDD" stroke-width="1.2"/>
-</g>
-<defs>
-<clipPath id="clip0_3502_457">
-<rect width="24" height="24" fill="white"/>
-</clipPath>
-</defs>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <defs id="defs1">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text { color:#e6f0f5; }
+            .ColorScheme-Highlight { color:#2179cb; }
+            .ColorScheme-Background { color:#e4e4e4; }
+        </style>
+    </defs>
+    <g clip-path="url(#clip0_3502_457)">
+        <rect x="6" y="6" width="1" height="1" fill="#ffffff"/>
+        <rect x="8" y="8" width="1" height="1" fill="#ffffff"/>
+        <rect x="7" y="9" width="1" height="1" fill="#ffffff"/>
+        <rect x="6" y="10" width="1" height="1" fill="#ffffff"/>
+        <rect x="9" y="9" width="1" height="1" fill="#ffffff"/>
+        <rect x="10" y="10" width="1" height="1" fill="#ffffff"/>
+        <rect x="9" y="7" width="1" height="1" fill="#ffffff"/>
+        <rect x="10" y="6" width="1" height="1" fill="#ffffff"/>
+        <rect x="7" y="7" width="1" height="1" fill="#ffffff"/>
+        <rect x="13" y="6" width="1" height="1" fill="#ffffff"/>
+        <rect x="15" y="8" width="1" height="1" fill="#ffffff"/>
+        <rect x="14" y="9" width="1" height="1" fill="#ffffff"/>
+        <rect x="13" y="10" width="1" height="1" fill="#ffffff"/>
+        <rect x="16" y="9" width="1" height="1" fill="#ffffff"/>
+        <rect x="17" y="10" width="1" height="1" fill="#ffffff"/>
+        <rect x="16" y="7" width="1" height="1" fill="#ffffff"/>
+        <rect x="17" y="6" width="1" height="1" fill="#ffffff"/>
+        <rect x="14" y="7" width="1" height="1" fill="#ffffff"/>
+        <rect x="7" y="17" width="1" height="1" fill="#ffffff"/>
+        <rect x="8" y="16" width="1" height="1" fill="#ffffff"/>
+        <rect x="9" y="15" width="1" height="1" fill="#ffffff"/>
+        <rect x="10" y="14" width="4" height="1" fill="#ffffff"/>
+        <rect x="14" y="15" width="1" height="1" fill="#ffffff"/>
+        <rect x="15" y="16" width="1" height="1" fill="#ffffff"/>
+        <rect x="16" y="17" width="1" height="1" fill="#ffffff"/>
+        <rect x="4" y="4" width="16" height="16" rx="2" stroke="#ffffff" stroke-width="1.2"/>
+        <rect x="6" y="6" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="8" y="8" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="7" y="9" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="6" y="10" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="9" y="9" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="10" y="10" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="9" y="7" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="10" y="6" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="7" y="7" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="13" y="6" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="15" y="8" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="14" y="9" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="13" y="10" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="16" y="9" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="17" y="10" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="16" y="7" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="17" y="6" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="14" y="7" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="7" y="17" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="8" y="16" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="9" y="15" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="10" y="14" width="4" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="14" y="15" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="15" y="16" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="16" y="17" width="1" height="1" style="fill:currentColor;opacity:0.5" class="ColorScheme-Highlight"/>
+        <rect x="4" y="4" width="16" height="16" rx="2" style="stroke:currentColor;opacity:0.5" class="ColorScheme-Highlight" stroke-width="1.2"/>
+    </g>
+    <defs>
+        <clipPath id="clip0_3502_457">
+            <rect width="24" height="24" fill="white"/>
+        </clipPath>
+    </defs>
 </svg>

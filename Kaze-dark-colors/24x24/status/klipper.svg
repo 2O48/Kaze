@@ -1,18 +1,24 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_3017_2922)">
-<mask id="mask0_3017_2922" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
-<path d="M24 0H0V24H24V0Z" fill="white"/>
-</mask>
-<g mask="url(#mask0_3017_2922)">
-<path d="M9 6H8C6.89543 6 6 6.89543 6 8V18C6 19.1046 6.89543 20 8 20H16C17.1046 20 18 19.1046 18 18V8C18 6.89543 17.1046 6 16 6H15" stroke="#DDDDDD" stroke-width="1.2"/>
-<path d="M14 4H10C9.44772 4 9 4.44772 9 5V7C9 7.55228 9.44772 8 10 8H14C14.5523 8 15 7.55228 15 7V5C15 4.44772 14.5523 4 14 4Z" stroke="#DDDDDD" stroke-width="1.2"/>
-<path d="M9 12H15" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round"/>
-<path d="M9 15H13" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round"/>
-</g>
-</g>
-<defs>
-<clipPath id="clip0_3017_2922">
-<rect width="24" height="24" fill="white"/>
-</clipPath>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" version="1.1" id="svg3" sodipodi:docname="klipper.svg" inkscape:version="1.4 (e7c3feb100, 2024-10-09)">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">
+      .ColorScheme-Text { color:#e6f0f5; }
+      .ColorScheme-Highlight { color:#2179cb; }
+      .ColorScheme-Background { color:#e4e4e4; }
+    </style>
+  </defs>
+  <sodipodi:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#ffffff" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="30.958333" inkscape:cx="11.983849" inkscape:cy="12" inkscape:window-width="1920" inkscape:window-height="952" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg3"/>
+  <g clip-path="url(#clip0_945_363)" id="g3">
+    <path id="rect1" style="stroke:#ffffff;stroke-width:1.2" d="m 10,4 h 4 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 H 10 C 9.446,8 9,7.554 9,7 V 5 C 9,4.446 9.446,4 10,4 Z M 9,6 H 8 C 6.89543,6 6,6.89543 6,8 v 10 c 0,1.1046 0.89543,2 2,2 h 8 c 1.1046,0 2,-0.8954 2,-2 V 8 C 18,6.89543 17.1046,6 16,6 h -1"/>
+    <path d="M9 12H15" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" id="path2"/>
+    <path d="M9 15H13" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round" id="path3"/>
+    <path id="rect1" style="stroke:currentColor;opacity:0.5;stroke-width:1.2" class="ColorScheme-Highlight" d="m 10,4 h 4 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 H 10 C 9.446,8 9,7.554 9,7 V 5 C 9,4.446 9.446,4 10,4 Z M 9,6 H 8 C 6.89543,6 6,6.89543 6,8 v 10 c 0,1.1046 0.89543,2 2,2 h 8 c 1.1046,0 2,-0.8954 2,-2 V 8 C 18,6.89543 17.1046,6 16,6 h -1"/>
+    <path d="M9 12H15" style="stroke:currentColor;opacity:0.5" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round" id="path2"/>
+    <path d="M9 15H13" style="stroke:currentColor;opacity:0.5" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round" id="path3"/>
+  </g>
+  <defs id="defs3">
+    <clipPath id="clip0_945_363">
+      <rect width="24" height="24" fill="white" id="rect3"/>
+    </clipPath>
+  </defs>
 </svg>
