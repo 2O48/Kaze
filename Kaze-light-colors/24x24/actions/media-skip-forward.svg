@@ -1,4 +1,14 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M7.03688 17.522L15.1742 12.3437C15.7917 11.9507 15.7917 11.0493 15.1742 10.6563L7.03688 5.47801C6.37115 5.05437 5.5 5.53258 5.5 6.32167L5.5 16.6783C5.5 17.4674 6.37115 17.9456 7.03688 17.522Z" stroke="#111111" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M18.5 17.5L18.5 5.5" stroke="#111111" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <defs id="defs1">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text { color:#e6f0f5; }
+            .ColorScheme-Highlight { color:#2179cb; }
+            .ColorScheme-Background { color:#e4e4e4; }
+        </style>
+    </defs>
+    <path d="M7.03688 17.522L15.1742 12.3437C15.7917 11.9507 15.7917 11.0493 15.1742 10.6563L7.03688 5.47801C6.37115 5.05437 5.5 5.53258 5.5 6.32167L5.5 16.6783C5.5 17.4674 6.37115 17.9456 7.03688 17.522Z" stroke="#111111" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18.5 17.5L18.5 5.5" stroke="#111111" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M7.03688 17.522L15.1742 12.3437C15.7917 11.9507 15.7917 11.0493 15.1742 10.6563L7.03688 5.47801C6.37115 5.05437 5.5 5.53258 5.5 6.32167L5.5 16.6783C5.5 17.4674 6.37115 17.9456 7.03688 17.522Z" style="stroke:currentColor;opacity:0.5" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18.5 17.5L18.5 5.5" style="stroke:currentColor;opacity:0.5" class="ColorScheme-Highlight" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

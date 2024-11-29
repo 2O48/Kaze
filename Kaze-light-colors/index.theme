@@ -47,29 +47,34 @@ Type=Scalable
 [24x24/places]
 Context=Places
 Size=24
-Type=Fixed
+Type=Scalable
 
 [24x24/status]
 Context=Status
 Size=24
-Type=Fixed
+Type=Scalable
 
 [24x24/devices]
 Context=Devices
 Size=24
-Type=Fixed
+Type=Scalable
 
 [24x24/actions]
 Context=Actions
 Size=24
-Type=Fixed
+Type=Scalable
 
 [24x24/categories]
 Context=Categories
 Size=24
-Type=Fixed
+Type=Scalable
 
 [24x24/preferences]
 Context=Applications
 Size=24
-Type=Fixed
+Type=Scalable
+
+[24x24/apps]
+Context=Apps
+Size=24
+Type=Scalable
