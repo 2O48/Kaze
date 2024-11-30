@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <defs id="defs1">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text { color:#e6f0f5; }
+            .ColorScheme-Text { color:#2179cb; }
+            .ColorScheme-Background { color:#e4e4e4; }
+        </style>
+    </defs>
+    <path d="M5.97801 13.4631L11.1563 5.32575C11.5493 4.70825 12.4507 4.70826 12.8437 5.32575L18.022 13.4631C18.4456 14.1288 17.9674 15 17.1783 15H6.82167C6.03258 15 5.55437 14.1288 5.97801 13.4631Z" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M6 18L18 18" stroke="#DDDDDD" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M5.97801 13.4631L11.1563 5.32575C11.5493 4.70825 12.4507 4.70826 12.8437 5.32575L18.022 13.4631C18.4456 14.1288 17.9674 15 17.1783 15H6.82167C6.03258 15 5.55437 14.1288 5.97801 13.4631Z" style="stroke:currentColor;opacity:1;" class="ColorScheme-Text" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M6 18L18 18" style="stroke:currentColor;opacity:1;" class="ColorScheme-Text" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
