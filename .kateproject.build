@@ -1,0 +1,18 @@
+{
+    "Auto_generated": "This file is auto-generated. Any extra tags or formatting will be lost",
+    "target_sets": [
+        {
+            "cmake_config": "",
+            "directory": "",
+            "loaded_via_cmake": false,
+            "name": "Conjunto de alvos",
+            "targets": [
+                {
+                    "build_cmd": "/home/lucas/Documentos/Repos/game/main",
+                    "name": "build",
+                    "run_cmd": ""
+                }
+            ]
+        }
+    ]
+}
