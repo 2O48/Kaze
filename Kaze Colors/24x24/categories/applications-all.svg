@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <defs id="defs1">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text { color:#e6f0f5; }
+            .ColorScheme-Text { color:#2179cb; }
+            .ColorScheme-Background { color:#e4e4e4; }
+        </style>
+    </defs>
+    <g clip-path="url(#clip0_3017_1902)">
+        <mask id="mask0_3017_1902" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+            <path d="M24 0H0V24H24V0Z" fill="white"/>
+        </mask>
+        <g mask="url(#mask0_3017_1902)">
+            <path d="M10 4H5C4.44772 4 4 4.44772 4 5V10C4 10.5523 4.44772 11 5 11H10C10.5523 11 11 10.5523 11 10V5C11 4.44772 10.5523 4 10 4Z" stroke="currentColor" class="ColorScheme-Text" stroke-width="1.2"/>
+            <path d="M10 13H5C4.44772 13 4 13.4477 4 14V19C4 19.5523 4.44772 20 5 20H10C10.5523 20 11 19.5523 11 19V14C11 13.4477 10.5523 13 10 13Z" stroke="currentColor" class="ColorScheme-Text" stroke-width="1.2"/>
+            <path d="M19 4H14C13.4477 4 13 4.44772 13 5V10C13 10.5523 13.4477 11 14 11H19C19.5523 11 20 10.5523 20 10V5C20 4.44772 19.5523 4 19 4Z" stroke="currentColor" class="ColorScheme-Text" stroke-width="1.2"/>
+            <path d="M19 13H14C13.4477 13 13 13.4477 13 14V19C13 19.5523 13.4477 20 14 20H19C19.5523 20 20 19.5523 20 19V14C20 13.4477 19.5523 13 19 13Z" stroke="currentColor" class="ColorScheme-Text" stroke-width="1.2"/>
+        </g>
+    </g>
+    <defs>
+        <clipPath id="clip0_3017_1902">
+            <rect width="24" height="24" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" version="1.1" id="svg3" sodipodi:docname="drive-harddisk.svg" inkscape:version="1.4 (e7c3feb100, 2024-10-09)">
+    <defs id="defs1">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text { color:#e6f0f5; }
+            .ColorScheme-Text { color:#2179cb; }
+            .ColorScheme-Background { color:#e4e4e4; }
+        </style>
+    </defs>
+    <sodipodi:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#ffffff" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="23.540763" inkscape:cx="-0.6796721" inkscape:cy="17.692714" inkscape:window-width="1920" inkscape:window-height="1008" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="g2"/>
+    <g clip-path="url(#clip0_953_88)" id="g2">
+        <path id="path3" style="fill:none;stroke:#ffffff;stroke-width:1.1;stroke-linecap:round;paint-order:stroke fill markers" d="m 3.525799,16.099733 16.864364,0.04248 z M 20.4,16.1139 V 20 c 0,0.2209 -0.1791,0.4 -0.4,0.4 H 4 C 3.77909,20.4 3.6,20.2209 3.6,20 v -3.8861 c 0,-0.0303 0.00344,-0.0605 0.01024,-0.09 L 6.40576,3.91006 C 6.44764,3.72856 6.60925,3.6 6.79551,3.6 H 17.2045 c 0.1862,0 0.3479,0.12856 0.3897,0.31006 l 2.7956,12.11384 c 0.0068,0.0295 0.0102,0.0597 0.0102,0.09 z"/>
+        <path id="path3" style="fill:none;stroke:currentColor;opacity:1;stroke-width:1.1;stroke-linecap:round;paint-order:stroke fill markers" class="ColorScheme-Text" d="m 3.525799,16.099733 16.864364,0.04248 z M 20.4,16.1139 V 20 c 0,0.2209 -0.1791,0.4 -0.4,0.4 H 4 C 3.77909,20.4 3.6,20.2209 3.6,20 v -3.8861 c 0,-0.0303 0.00344,-0.0605 0.01024,-0.09 L 6.40576,3.91006 C 6.44764,3.72856 6.60925,3.6 6.79551,3.6 H 17.2045 c 0.1862,0 0.3479,0.12856 0.3897,0.31006 l 2.7956,12.11384 c 0.0068,0.0295 0.0102,0.0597 0.0102,0.09 z"/>
+    </g>
+    <defs id="defs3">
+        <clipPath id="clip0_953_88">
+            <rect width="24" height="24" fill="white" id="rect3"/>
+        </clipPath>
+    </defs>
+</svg>
