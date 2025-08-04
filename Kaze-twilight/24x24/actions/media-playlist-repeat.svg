@@ -1,6 +1,11 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M18 7.00002C18 7.00002 12.7337 7.00002 10 7.00002C4 7 4 12 4 12" stroke="#111111" stroke-width="1.2" stroke-linecap="round"/>
-<path d="M6 17C6 17 11.2663 17 14 17C20 17 20 12 20 12" stroke="#111111" stroke-width="1.2" stroke-linecap="round"/>
-<path d="M16 5L18 7L16 9" stroke="#111111" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M7 19L5 17L7 15" stroke="#111111" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text { color:#111111; }
+</style>
+</defs>
+<path d="M18 7.00002C18 7.00002 12.7337 7.00002 10 7.00002C4 7 4 12 4 12" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" class="ColorScheme-Text" />
+<path d="M6 17C6 17 11.2663 17 14 17C20 17 20 12 20 12" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" class="ColorScheme-Text" />
+<path d="M16 5L18 7L16 9" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text" />
+<path d="M7 19L5 17L7 15" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text" />
 </svg>

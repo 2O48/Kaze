@@ -1,5 +1,10 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M4 10.5858V5C4 4.44772 4.44772 4 5 4H10.5858C10.851 4 11.1054 4.10536 11.2929 4.29289L19.2929 12.2929C19.6834 12.6834 19.6834 13.3166 19.2929 13.7071L13.7071 19.2929C13.3166 19.6834 12.6834 19.6834 12.2929 19.2929L4.29289 11.2929C4.10536 11.1054 4 10.851 4 10.5858Z" stroke="#111111" stroke-width="1.2"/>
-<circle cx="7.5" cy="7.5" r="1.5" fill="#111111"/>
-<path d="M4 11L9.4453 19.1679C9.75165 19.6275 10.3725 19.7517 10.8321 19.4453L11.5 19" stroke="#111111" stroke-width="1.2" stroke-linecap="round"/>
+<defs>
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text { color:#111111; }
+</style>
+</defs>
+<path d="M4 10.5858V5C4 4.44772 4.44772 4 5 4H10.5858C10.851 4 11.1054 4.10536 11.2929 4.29289L19.2929 12.2929C19.6834 12.6834 19.6834 13.3166 19.2929 13.7071L13.7071 19.2929C13.3166 19.6834 12.6834 19.6834 12.2929 19.2929L4.29289 11.2929C4.10536 11.1054 4 10.851 4 10.5858Z" stroke="currentColor" stroke-width="1.2" class="ColorScheme-Text" />
+<circle cx="7.5" cy="7.5" r="1.5" fill="currentColor" class="ColorScheme-Text" />
+<path d="M4 11L9.4453 19.1679C9.75165 19.6275 10.3725 19.7517 10.8321 19.4453L11.5 19" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" class="ColorScheme-Text" />
 </svg>

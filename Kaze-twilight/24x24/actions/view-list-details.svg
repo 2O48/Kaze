@@ -1,11 +1,16 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text { color:#111111; }
+</style>
+</defs>
 <g clip-path="url(#clip0_956_319)">
-<rect x="4" y="4" width="6" height="6" rx="1" stroke="#111111" stroke-width="1.2" stroke-linejoin="round"/>
-<rect x="4" y="14" width="6" height="6" rx="1" fill="#111111" stroke="#111111" stroke-width="1.2" stroke-linejoin="round"/>
-<path d="M13 5L20 5" stroke="#111111" stroke-width="1.2" stroke-linecap="round"/>
-<path d="M13 15L18 15" stroke="#111111" stroke-width="1.2" stroke-linecap="round"/>
-<path d="M13 9L20 9" stroke="#111111" stroke-width="1.2" stroke-linecap="round"/>
-<path d="M13 19L18 19" stroke="#111111" stroke-width="1.2" stroke-linecap="round"/>
+<rect x="4" y="4" width="6" height="6" rx="1" stroke="currentColor" stroke-width="1.2" stroke-linejoin="round" class="ColorScheme-Text" />
+<rect x="4" y="14" width="6" height="6" rx="1" fill="currentColor" stroke="currentColor" stroke-width="1.2" stroke-linejoin="round" class="ColorScheme-Text" />
+<path d="M13 5L20 5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" class="ColorScheme-Text" />
+<path d="M13 15L18 15" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" class="ColorScheme-Text" />
+<path d="M13 9L20 9" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" class="ColorScheme-Text" />
+<path d="M13 19L18 19" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" class="ColorScheme-Text" />
 </g>
 <defs>
 <clipPath id="clip0_956_319">

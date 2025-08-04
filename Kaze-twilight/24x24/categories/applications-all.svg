@@ -1,9 +1,14 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text { color:#111111; }
+</style>
+</defs>
 <g clip-path="url(#clip0_975_229)">
-<rect x="4" y="4" width="7" height="7" rx="1" stroke="#111111" stroke-width="1.2"/>
-<rect x="4" y="13" width="7" height="7" rx="1" stroke="#111111" stroke-width="1.2"/>
-<rect x="13" y="4" width="7" height="7" rx="1" stroke="#111111" stroke-width="1.2"/>
-<rect x="13" y="13" width="7" height="7" rx="1" stroke="#111111" stroke-width="1.2"/>
+<rect x="4" y="4" width="7" height="7" rx="1" stroke="currentColor" stroke-width="1.2" class="ColorScheme-Text" />
+<rect x="4" y="13" width="7" height="7" rx="1" stroke="currentColor" stroke-width="1.2" class="ColorScheme-Text" />
+<rect x="13" y="4" width="7" height="7" rx="1" stroke="currentColor" stroke-width="1.2" class="ColorScheme-Text" />
+<rect x="13" y="13" width="7" height="7" rx="1" stroke="currentColor" stroke-width="1.2" class="ColorScheme-Text" />
 </g>
 <defs>
 <clipPath id="clip0_975_229">

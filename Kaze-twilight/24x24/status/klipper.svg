@@ -1,9 +1,14 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text { color:#111111; }
+</style>
+</defs>
 <g clip-path="url(#clip0_945_363)">
-<path d="M9 6H8C6.89543 6 6 6.89543 6 8V18C6 19.1046 6.89543 20 8 20H16C17.1046 20 18 19.1046 18 18V8C18 6.89543 17.1046 6 16 6H15" stroke="#111111" stroke-width="1.2"/>
-<rect x="9" y="4" width="6" height="4" rx="1" stroke="#111111" stroke-width="1.2"/>
-<path d="M9 12H15" stroke="#111111" stroke-width="1.2" stroke-linecap="round"/>
-<path d="M9 15H13" stroke="#111111" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M9 6H8C6.89543 6 6 6.89543 6 8V18C6 19.1046 6.89543 20 8 20H16C17.1046 20 18 19.1046 18 18V8C18 6.89543 17.1046 6 16 6H15" stroke="currentColor" stroke-width="1.2" class="ColorScheme-Text" />
+<rect x="9" y="4" width="6" height="4" rx="1" stroke="currentColor" stroke-width="1.2" class="ColorScheme-Text" />
+<path d="M9 12H15" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" class="ColorScheme-Text" />
+<path d="M9 15H13" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" class="ColorScheme-Text" />
 </g>
 <defs>
 <clipPath id="clip0_945_363">

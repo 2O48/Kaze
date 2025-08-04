@@ -1,9 +1,14 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text { color:#111111; }
+</style>
+</defs>
 <g clip-path="url(#clip0_3064_267)">
-<path d="M18 6L6 12L18 18" stroke="#111111" stroke-width="1.2" stroke-linecap="round"/>
-<circle cx="6" cy="12" r="2" fill="#111111"/>
-<circle cx="18" cy="6" r="2" fill="#111111"/>
-<circle cx="18" cy="18" r="2" fill="#111111"/>
+<path d="M18 6L6 12L18 18" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" class="ColorScheme-Text" />
+<circle cx="6" cy="12" r="2" fill="currentColor" class="ColorScheme-Text" />
+<circle cx="18" cy="6" r="2" fill="currentColor" class="ColorScheme-Text" />
+<circle cx="18" cy="18" r="2" fill="currentColor" class="ColorScheme-Text" />
 </g>
 <defs>
 <clipPath id="clip0_3064_267">
