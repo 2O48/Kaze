@@ -1,0 +1,18 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text { color:#111111; }
+</style>
+</defs>
+<g clip-path="url(#clip0_1126_159)">
+<ellipse cx="7.34808" cy="16.5" rx="3" ry="3.5" transform="rotate(30 7.34808 16.5)" stroke="currentColor" stroke-width="1.2" class="ColorScheme-Text" />
+<ellipse cx="16.3481" cy="16.5" rx="3" ry="3.5" transform="rotate(-30 16.3481 16.5)" stroke="currentColor" stroke-width="1.2" class="ColorScheme-Text" />
+<path d="M14.3481 13L7.34814 3" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" class="ColorScheme-Text" />
+<path d="M9.34814 13L16.3481 3" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" class="ColorScheme-Text" />
+</g>
+<defs>
+<clipPath id="clip0_1126_159">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>

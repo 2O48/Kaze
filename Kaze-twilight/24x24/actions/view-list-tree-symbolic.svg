@@ -1,0 +1,19 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text { color:#111111; }
+</style>
+</defs>
+<g clip-path="url(#clip0_956_404)">
+<rect x="4" y="4" width="6" height="6" rx="1" stroke="currentColor" stroke-width="1.2" class="ColorScheme-Text" />
+<rect x="14" y="4" width="6" height="6" rx="1" stroke="currentColor" stroke-width="1.2" class="ColorScheme-Text" />
+<rect x="14" y="14" width="6" height="6" rx="1" fill="currentColor" stroke="currentColor" stroke-width="1.2" class="ColorScheme-Text" />
+<path d="M10 7L14 7" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" class="ColorScheme-Text" />
+<path d="M14 17H12C10.8954 17 10 16.1046 10 15V7" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text" />
+</g>
+<defs>
+<clipPath id="clip0_956_404">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>

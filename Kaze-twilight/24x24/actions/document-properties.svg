@@ -1,0 +1,17 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style type="text/css" id="current-color-scheme">
+.ColorScheme-Text { color:#111111; }
+</style>
+</defs>
+<g clip-path="url(#clip0_3064_296)">
+<circle cx="12" cy="12" r="8" stroke="currentColor" stroke-width="1.2" class="ColorScheme-Text" />
+<circle cx="12" cy="9" r="1" fill="currentColor" class="ColorScheme-Text" />
+<path d="M12 12V16" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" class="ColorScheme-Text" />
+</g>
+<defs>
+<clipPath id="clip0_3064_296">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
